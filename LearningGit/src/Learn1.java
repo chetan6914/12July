@@ -6,6 +6,8 @@ public class Learn1 {
 		System.out.println("Learning how to commit throguh Eclipse IDE to remote repository creted in Github");
 		
 		System.out.println("Verify changes through second commit in repository");
+		
+		System.out.println("Commited to check conflicts");
 	}
 
 }
